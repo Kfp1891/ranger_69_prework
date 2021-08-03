@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="background-color:darkblue;">
+
+<dl style="text-align:center;font-size:800%;color:green">
+<dt>Robert Burrows<dt>
+
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/46482920_1895491653892222_1947199100965355520_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=MBqrGlec_B0AX_7V1Up&_nc_ht=scontent-sea1-1.xx&oh=1a145e8287c82f384e874eb456246ace&oe=612E1C04"style="width:475px;height:475px;"></dl>
+<hr>
+<h2 style="text-align:center;color:white;font-size:450%">About</h2>
+<hr>
+<p style="text-align:center;color:green;font-size:150%";>I'm 39yrs old. I grew up in a military family, so we traveled a lot.<br> I've been to and lived in several countries and various states before settling in Washington State.<br> I've been in the manufacturing industry for almost 17yrs.<br> Started out as an operator, then moved up to a Maintenance Mechanic. After working at Rexam for 12yrs the company was bought out by Ball Corp, so I decided to move on.<br> From there I went to work for Amazon as a Maintenance Lead, after being there for 2yrs I decided it wasn't for me.<br> So I went on to an aerospace company called Exotic Metals. After a year there, I was downsized due to Covid and returned to Ball Corp. </p> 
+<p style="text-align:center;color:darkseagreen;font-size:150%">I'm now looking to learn a new skill in hopes to have more of a life not spent in a dark windowless building, filled with chemical fumes.</p>
+<hr>
+
+<h3 style="text-align:center;color:white;font-size:450%">Interests/Hobbies</h3>
+
+<dl style="text-align:center;color:white;font-size:150%">
+  <dt>Watching Anime, Movies and Shows<dt>
+  <dt>Tinkering with all kinds of mechanical things(Cars,Trucks,Motorcycles,ect.)<dt>
+  <dt>Music and Concerts<dt>
+  <dt>Firearms<dt>
+  <dt>Throwing Darts<dt>
+  <dt>Comics<dt>
+  <dt>Sports(Football,Baseball)<dt>
+
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.6435-9/201178775_3960212577420109_8665905270829325380_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=DAHe-4afcQwAX-Lrvzm&_nc_ht=scontent-sea1-1.xx&oh=cd0353a751ff8a0a55f570b2846c21ea&oe=612DB1F8" style= "width:500px;height:500px;"></dl>
+<hr>
+<h4 style="color:darkseagreen;font-size:250%">What are some of my interests?</h4>
+<p style="color:white;font-size:150%">(check all that appy)</p>
+
+<form action="/action_page.php"style="color:yellow;font-size:150%">
+  <input type="checkbox" id="interests1" name="interests1" value="Comics">
+  <label for="interests1"> I like comics</label><br>
+  <input type="checkbox" id="interests2" name="interests2" value="Dancing">
+  <label for="interests2"> I like to dance</label><br>
+  <input type="checkbox" id="interests3" name="interests3" value="Watching Anime">
+  <label for="interests3"> I watching Anime</label><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+
+<h5 style="color:green;font-size:200%">Links</h5>
+
+<a style="color:lightgreen" href="https://www.ball.com/Home">Ball Corp</a><br>
+<a style="color:lightgreen" href="https://www.exoticmetals.com">Exotic Metals</a><br>
+<a style="color:lightgreen" href="https://www.facebook.com/robert.burrows.14/">My Facebook</a>
+
+</body>
+</html>
