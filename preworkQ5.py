@@ -4,7 +4,8 @@
 def is_consecutive (a_list):
     return f"is consecutive, {a_list}"
 a_list = input("a list")
-if input == str(range(1,100,1)):
+if input == len(range(1,100,1)):
       print ("is consecutive")
-else input != str(range(1,100,1)):
+else:
+    input != len(range(1,100,1))
       print ("this is not consecutive")
